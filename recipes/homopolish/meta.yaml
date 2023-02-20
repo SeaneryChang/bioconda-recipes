@@ -19,7 +19,6 @@ requirements:
          - pip >=20.2.4
          - python >=3.7.7
     run:
-         - _libgcc_mutex >=0.1
          - _openmp_mutex >=4.5
          - arrow-cpp >=0.15.1
          - biopython >=1.76
